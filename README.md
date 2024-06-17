@@ -38,12 +38,12 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 <br/>  
 
 ## Github Stats
-<table style="overflow:hidden !important;border: none;" border="0">
+<table style="overflow:hidden !important;>
     <tr>
-        <td width="55%">
+        <td width="58%">
           <img src="https://github-readme-stats.vercel.app/api?username=abhishakec&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
         </td>
-        <td width="45%" style="padding: 5px 0 !important;">
+        <td width="42%">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishakec&hide_border=true&layout=compact" align="left" style="width: 100%" />
         </td>
     </tr>
