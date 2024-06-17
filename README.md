@@ -39,7 +39,7 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 
 
 ## Github Stats  
-<div>
+<div style="display:flex; flex-direction:column;">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishakec&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishakec&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </div>
