@@ -38,7 +38,7 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 <br/>  
 
 ## Github Stats
-<table style="overflow:hidden !important;">
+<table style="overflow:hidden !important;border: none;" border="0">
     <tr>
         <td width="55%">
           <img src="https://github-readme-stats.vercel.app/api?username=abhishakec&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
