@@ -20,21 +20,7 @@ I'm a highly skilled and experienced Salesforce Consultant with over 12 years of
 In my free time, I love to code and develop custom solutions for Salesforce applications.  
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+<br/>   
 
 
 ## Languages and Tools  
@@ -76,6 +62,3 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
