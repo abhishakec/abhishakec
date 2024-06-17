@@ -40,10 +40,10 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 ## Github Stats
 <table style="overflow:hidden !important;">
     <tr>
-        <td width="60%">
+        <td width="55%">
           <img src="https://github-readme-stats.vercel.app/api?username=abhishakec&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
         </td>
-        <td width="40%">
+        <td width="45%">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishakec&hide_border=true&layout=compact" align="left" style="width: 100%" />
         </td>
     </tr>
