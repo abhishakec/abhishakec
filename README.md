@@ -10,6 +10,8 @@
   <a href="https://github.com/abhishakec" target="_blank"><img height="30" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a>
   <img width="5" />
   <a href="https://x.com/abhishakec" target="_blank"><img height="30" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <img width="5" />
+  <a href="mailto:abhishake@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" /></a>
   <br>
   <br>
   <img height="23" src="https://komarev.com/ghpvc/?username=abhishakec&&style=flat-square"  />
