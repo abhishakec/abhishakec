@@ -5,17 +5,19 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/abhishakec" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-  <a href="https://github.com/abhishakec" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a>
-  <a href="https://x.com/abhishakec" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/abhishakec" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+  <img width="5" />
+  <a href="https://github.com/abhishakec" target="_blank"><img height="30" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a>
+  <img width="5" />
+  <a href="https://x.com/abhishakec" target="_blank"><img height="30" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=abhishakec&&style=flat-square"  />
+  <img height="23" src="https://komarev.com/ghpvc/?username=abhishakec&&style=flat-square"  />
 </div>
 
-###
+##
 
-## Hey 👋, I'm Abhishake Chandra!  
+### Hey 👋, I'm Abhishake Chandra!  
 
 
 ### Glad to see you here!  
@@ -59,8 +61,11 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 </div>
 
 
-###
-<img src="https://raw.githubusercontent.com/abhishakec/abhishakec/output/snake.svg" alt="Snake animation" />
+##
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/abhishakec/abhishakec/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
