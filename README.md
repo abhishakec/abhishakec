@@ -21,6 +21,7 @@
 
 ### Hey 👋, I'm Abhishake Chandra!  
 
+###
 
 ### Glad to see you here!  
 I'm a highly skilled and experienced Salesforce Consultant with over 12 years of success configuring, developing, testing, and implementing cutting-edge solutions for customer relationship management (CRM) systems like Siebel and Salesforce.
@@ -53,7 +54,7 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 <br/>  
 
 ## Github Stats
-
+<br clear="both">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishakec&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" alt="stats graph"  />
   <img width="18" />
