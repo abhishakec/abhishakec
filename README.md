@@ -53,21 +53,18 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 ## Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishakec&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img width="15" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishakec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishakec&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" alt="stats graph"  />
+  <img width="18" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishakec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="160" alt="languages graph"  />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishakec&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
 ##
-
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/abhishakec/abhishakec/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
-
-<br/>  
 
