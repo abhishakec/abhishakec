@@ -49,15 +49,15 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 
 ## Salesforce Technologies
 <div align="center">  
-  <a href="https://www.salesforce.com/uk/products/sales/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Sales%20Cloud-00857d?style=for-the-badge&logo=sf-sales" height="30" alt="sales logo" /></a> 
-  <img width="12" />
-  <a href="https://www.salesforce.com/uk/products/service/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Service%20Cloud-812244?style=for-the-badge&logo=sf-service" height="30" alt="service logo" /></a>
-  <img width="12" />
-  <a href="https://www.salesforce.com/uk/products/experience-cloud/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Experience%20Cloud-058cc5?style=for-the-badge&logo=sf-exp" height="30" alt="experience logo" /></a> 
-  <img width="12" />
-  <a href="https://www.salesforce.com/uk/solutions/industries/financial-services/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Financial%20Services%20Cloud-plum?style=for-the-badge&logoColor=481a54&logo=sf-finance" height="30" alt="finance logo" /></a>
-  <img width="12" />
-  <a href="https://www.salesforce.com/products/net-zero-cloud/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Net%20Zero%20Cloud-palegreen?style=for-the-badge&logoColor=481a54&logo=sf-netzero" height="30" alt="finance logo" /></a>
+  <a href="https://www.salesforce.com/uk/products/sales/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Sales%20Cloud-00857d?style=for-the-badge&logo=sf-sales" height="20" alt="sales logo" /></a> 
+  <img width="5" />
+  <a href="https://www.salesforce.com/uk/products/service/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Service%20Cloud-812244?style=for-the-badge&logo=sf-service" height="20" alt="service logo" /></a>
+  <img width="5" />
+  <a href="https://www.salesforce.com/uk/products/experience-cloud/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Experience%20Cloud-058cc5?style=for-the-badge&logo=sf-exp" height="20" alt="experience logo" /></a> 
+  <img width="5" />
+  <a href="https://www.salesforce.com/uk/solutions/industries/financial-services/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Financial%20Services%20Cloud-plum?style=for-the-badge&logoColor=481a54&logo=sf-finance" height="20" alt="finance logo" /></a>
+  <img width="5" />
+  <a href="https://www.salesforce.com/products/net-zero-cloud/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Net%20Zero%20Cloud-palegreen?style=for-the-badge&logoColor=481a54&logo=sf-netzero" height="20" alt="finance logo" /></a>
 </div>  
 <br/> 
 
