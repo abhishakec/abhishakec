@@ -14,13 +14,13 @@
   <a href="https://www.salesforce.com/trailblazer/abhishakec" target="_blank"><img height="30" src="https://custom-icon-badges.demolab.com/badge/-Trailhead-4B275F?style=for-the-badge&logoColor=fff&logo=sf-trailhead-alt" alt="Trailhead" /></a>
   <img width="12" />
   <a href="mailto:abhishake@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" /></a>
-  <img width="100" />
-  <img height="30" src="https://komarev.com/ghpvc/?username=abhishakec&&style=for-the-badge"  />
+  <br><br>
+  <img height="25" src="https://komarev.com/ghpvc/?username=abhishakec&&style=for-the-badge"  />
 </div>
 
 ##
 
-### Hey 👋, I'm Abhishake Chandra!  
+### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20"> Howdy, I'm Abhishake Chandra!  
 
 ### Glad to see you here!  
 I'm a highly skilled and experienced Salesforce Consultant with over 12 years of success configuring, developing, testing, and implementing cutting-edge solutions for customer relationship management (CRM) systems like Siebel and Salesforce.
@@ -30,7 +30,7 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 <br/>   
 
 ## Languages and Tools  
-<div align="left">  
+<div align="center">  
   <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" height="30" alt="javascript logo" /></a> 
   <img width="12" />
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html logo" /></a> 
@@ -48,7 +48,7 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 <br/>  
 
 ## Salesforce Technologies
-<div align="left">  
+<div align="center">  
   <a href="https://www.salesforce.com/uk/products/sales/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Sales%20Cloud-00857d?style=for-the-badge&logo=sf-sales" height="30" alt="sales logo" /></a> 
   <img width="12" />
   <a href="https://www.salesforce.com/uk/products/service/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Service%20Cloud-812244?style=for-the-badge&logo=sf-service" height="30" alt="service logo" /></a>
