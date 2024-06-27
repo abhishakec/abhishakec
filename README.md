@@ -29,8 +29,11 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 
 <br/>   
 
-## Languages and Tools  
-<div align="left">  
+## Languages and Tools 
+<table align="center">
+  <tr>
+    <td>
+      <div align="left">  
   <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" height="25" alt="javascript logo" /></a> 
   <img width="1" />
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="html logo" /></a> 
@@ -44,9 +47,17 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="25" alt="Figma logo"  /></a> 
   <img width="1" />
   <a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge" height="25" alt="Wordpress logo"  /></a>  
-  <img height="1%" />
-  <a href="https://vscode.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" height="25" alt="VSCode logo"  /></a>
 </div>
+    </td>
+  </tr>
+  <tr>
+    <td><div align="left">  
+        <a href="https://vscode.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" height="25" alt="VSCode logo"  /></a>
+    </div>
+    </td>
+  </tr>
+</table>
+
 <br/>  
 
 ## Salesforce Technologies
