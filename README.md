@@ -6,52 +6,60 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/abhishakec" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-  <img width="5" />
+  <img width="12" />
   <a href="https://github.com/abhishakec" target="_blank"><img height="30" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a>
-  <img width="5" />
-  <a href="https://x.com/abhishakec" target="_blank"><img height="30" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <img width="5" />
+  <img width="12" />
+  <a href="https://x.com/abhishakec" target="_blank"><img height="29" src="https://custom-icon-badges.demolab.com/badge/-Twitter-1D9BF0?style=for-the-badge&logoColor=fff&logo=tweet-old" alt="Twitter" /></a>
+  <img width="12" />
+  <a href="https://www.salesforce.com/trailblazer/abhishakec" target="_blank"><img height="30" src="https://custom-icon-badges.demolab.com/badge/-Trailhead-4B275F?style=for-the-badge&logoColor=fff&logo=sf-trailhead-alt" alt="Trailhead" /></a>
+  <img width="12" />
   <a href="mailto:abhishake@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" /></a>
-  <br>
-  <br>
-  <img height="23" src="https://komarev.com/ghpvc/?username=abhishakec&&style=flat-square"  />
+  <img width="100" />
+  <img height="30" src="https://komarev.com/ghpvc/?username=abhishakec&&style=for-the-badge"  />
 </div>
 
 ##
 
 ### Hey 👋, I'm Abhishake Chandra!  
 
-###
-
 ### Glad to see you here!  
 I'm a highly skilled and experienced Salesforce Consultant with over 12 years of success configuring, developing, testing, and implementing cutting-edge solutions for customer relationship management (CRM) systems like Siebel and Salesforce.
 
-In my free time, I love to code and develop custom solutions for Salesforce applications.  
-  
+In my free time, I love to code and develop custom solutions for Salesforce applications. 
 
 <br/>   
 
-
 ## Languages and Tools  
-<div align="center">  
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  /></a> 
+<div align="left">  
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" height="30" alt="javascript logo" /></a> 
   <img width="12" />
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-plain.svg" height="60" alt="html logo"  /></a> 
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html logo" /></a> 
   <img width="12" />
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-plain.svg" height="60" alt="css logo"  /></a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css logo" /></a> 
   <img width="12" />
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" height="60" alt="PS logo"  /></a> 
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black" height="30" alt="PS logo" /></a> 
   <img width="12" />
-  <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" height="60" alt="XD logo"  /></a> 
+  <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="30" alt="XD logo"  /></a> 
   <img width="12" />
-  <a href="https://www.figma.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" height="60" alt="Figma logo"  /></a> 
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="30" alt="Figma logo"  /></a> 
   <img width="12" />
-  <a href="https://wordpress.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" height="60" alt="Wordpress logo"  /></a>
-  <img width="12" />
-  <a href="https://www.salesforce.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/salesforce/salesforce-original.svg" height="60" alt="SF logo"  /></a>
+  <a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge" height="30" alt="Wordpress logo"  /></a>
 </div>  
-
 <br/>  
+
+## Salesforce Technologies
+<div align="left">  
+  <a href="https://www.salesforce.com/uk/products/sales/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Sales%20Cloud-00857d?style=for-the-badge&logo=sf-sales" height="30" alt="sales logo" /></a> 
+  <img width="12" />
+  <a href="https://www.salesforce.com/uk/products/service/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Service%20Cloud-812244?style=for-the-badge&logo=sf-service" height="30" alt="service logo" /></a>
+  <img width="12" />
+  <a href="https://www.salesforce.com/uk/products/experience-cloud/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Experience%20Cloud-058cc5?style=for-the-badge&logo=sf-exp" height="30" alt="experience logo" /></a> 
+  <img width="12" />
+  <a href="https://www.salesforce.com/uk/solutions/industries/financial-services/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Financial%20Services%20Cloud-plum?style=for-the-badge&logoColor=481a54&logo=sf-finance" height="30" alt="finance logo" /></a>
+  <img width="12" />
+  <a href="https://www.salesforce.com/products/net-zero-cloud/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Net%20Zero%20Cloud-palegreen?style=for-the-badge&logoColor=481a54&logo=sf-netzero" height="30" alt="finance logo" /></a>
+</div>  
+<br/> 
 
 ## Github Stats
 <br clear="both">
