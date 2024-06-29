@@ -27,25 +27,25 @@ I'm a highly skilled and experienced Salesforce Consultant with over 12 years of
 
 In my free time, I love to code and develop custom solutions for Salesforce applications. 
 
-<br/>   
+## 
 
-## Languages and Tools 
-<table align="center">
+### Languages and Tools 
+<table>
   <tr>
     <td>
       <div align="left">  
   <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" height="25" alt="javascript logo" /></a> 
-  <img width="1" />
+  <img width="5" />
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="html logo" /></a> 
-  <img width="1" />
+  <img width="5" />
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="css logo" /></a> 
-  <img width="1" />
+  <img width="5" />
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black" height="25" alt="PS logo" /></a> 
-  <img width="1" />
+  <img width="5" />
   <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="25" alt="XD logo"  /></a> 
-  <img width="1" />
+  <img width="5" />
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="25" alt="Figma logo"  /></a> 
-  <img width="1" />
+  <img width="5" />
   <a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge" height="25" alt="Wordpress logo"  /></a>  
 </div>
     </td>
@@ -58,9 +58,12 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
   </tr>
 </table>
 
-<br/>  
+##
 
-## Salesforce Technologies
+### Salesforce Technologies
+<table>
+  <tr>
+    <td>
 <div align="left">  
   <a href="https://www.salesforce.com/uk/products/sales/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Sales%20Cloud-00857d?style=for-the-badge&logo=sf-sales" height="25" alt="sales logo" /></a> 
   <img width="5" />
@@ -71,10 +74,14 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
   <a href="https://www.salesforce.com/uk/solutions/industries/financial-services/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Financial%20Services%20Cloud-plum?style=for-the-badge&logoColor=481a54&logo=sf-finance" height="25" alt="finance logo" /></a>
   <img width="5" />
   <a href="https://www.salesforce.com/products/net-zero-cloud/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Net%20Zero%20Cloud-palegreen?style=for-the-badge&logoColor=481a54&logo=sf-netzero" height="25" alt="finance logo" /></a>
-</div>  
-<br/> 
+</div>
+    </td>
+  </tr>
+</table>
 
-## Github Stats
+##
+
+### Github Stats
 <br clear="both">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishakec&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" alt="stats graph"  />
