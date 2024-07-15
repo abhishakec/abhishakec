@@ -39,20 +39,20 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="html logo" /></a> 
   <img width="5" />
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="css logo" /></a> 
-  <img width="5" />
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black" height="25" alt="PS logo" /></a> 
-  <img width="5" />
-  <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="25" alt="XD logo"  /></a> 
-  <img width="5" />
-  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="25" alt="Figma logo"  /></a> 
-  <img width="5" />
-  <a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge" height="25" alt="Wordpress logo"  /></a>  
 </div>
     </td>
   </tr>
   <tr>
     <td><div align="left">  
         <a href="https://vscode.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" height="25" alt="VSCode logo"  /></a>
+      <img width="5" />
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black" height="25" alt="PS logo" /></a> 
+  <img width="5" />
+  <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="25" alt="XD logo"  /></a> 
+  <img width="5" />
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="25" alt="Figma logo"  /></a> 
+  <img width="5" />
+  <a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge" height="25" alt="Wordpress logo"  /></a>
     </div>
     </td>
   </tr>
