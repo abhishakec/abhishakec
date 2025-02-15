@@ -84,8 +84,6 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 ##
 
 ### Trailhead Stats
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="25" height="25" />
-  My Trailhead Stats</h2>
 <!--TH_Stats:start-->
 
 <a href="https://www.salesforce.com/trailblazer/abhishakec">
