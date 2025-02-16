@@ -104,7 +104,7 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 ##
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/abhishakec/abhishakec/output/snake.svg" alt="Snake animation" />
-  <br><br>
+  <br><br><br>
   <img height="25" src="https://komarev.com/ghpvc/?username=abhishakec&&style=for-the-badge"  />
 </div>
 
