@@ -86,9 +86,7 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 
 ### Trailhead Stats
 <!--TH_Stats:start-->
-
-<a href="https://www.salesforce.com/trailblazer/abhishakec">
-</a>
+undefined
 <!--TH_Stats:end-->
 
 ### Github Stats
