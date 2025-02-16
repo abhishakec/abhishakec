@@ -86,7 +86,13 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 
 ### Trailhead Stats
 <!--TH_Stats:start-->
-<a href="https://www.salesforce.com/trailblazer/abhishakec" target="_blank"><img src="TS-cards/TScard-dark.png" height="100px">
+
+<a href="https://www.salesforce.com/trailblazer/abhishakec">
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="TS-cards/TScard-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="TS-cards/TScard-dark.png">
+    <img alt="Shows the Trailhead Stats card in either light or dark theme." src="TS-cards/TScard-light.png">
+</picture>
 </a>
 <!--TH_Stats:end-->
 
