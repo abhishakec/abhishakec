@@ -84,11 +84,6 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 
 ##
 
-### Trailhead Stats
-<!--TH_Stats:start-->
-
-<!--TH_Stats:end-->
-
 ### Github Stats
 <br clear="both">
 <div align="center">
