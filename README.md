@@ -32,6 +32,7 @@ In my free time, I love to code and develop custom solutions for Salesforce appl
 ## 
 
 ### Languages and Tools 
+
 <table>
   <tr>
     <td>
