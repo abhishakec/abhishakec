@@ -27,7 +27,7 @@ jobs:
           dark-style: 'dark'
           display-type: 'card'
           show-skill: 'hidden'
-          show-certification: 'hidden'
+          show-certification: 'number'
           show-badge: 'hidden'
           show-superbadge: 'hidden'
           show-event-badge: 'hidden'
