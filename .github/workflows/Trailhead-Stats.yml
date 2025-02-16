@@ -21,12 +21,19 @@ jobs:
         uses: nabondance/Trailhead-Stats@main
         with:
           trailhead-username: abhishakec
-          display-type: 'card'
           display-file: 'README.md'
           file-format: 'html'
           card-path: './TS-cards'
-          darkStyle: 'dark'
-          show-skill-number: 4
-          show-skill-theme: 'winter'
-          show-certification: 'icon'
-          show-stamp-latest: 'hidden'
+          dark-style: 'dark'
+          display-type: 'card'
+          showSkill: 'hidden'
+          showCertification: 'hidden'
+          showBadge: 'hidden'
+          showSuperBadge: 'hidden'
+          showEventBadge: 'hidden'
+          showStamp: 'hidden'
+          showCertificationLatest: 'hidden'
+          showBadgeLatest: 'hidden'
+          showSuperBadgeLatest: 'hidden'
+          showEventBadgeLatest: 'hidden'
+          showStampLatest: 'hidden'
