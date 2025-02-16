@@ -25,5 +25,8 @@ jobs:
           display-file: 'README.md'
           file-format: 'html'
           card-path: './TS-cards'
+          darkStyle: 'dark'
           show-skill-number: 4
           show-skill-theme: 'winter'
+          show-certification: 'icon'
+          show-stamp-latest: 'hidden'
