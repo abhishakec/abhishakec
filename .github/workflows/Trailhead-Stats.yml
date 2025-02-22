@@ -32,6 +32,6 @@ jobs:
           show-stamp: 'hidden'
           show-certification-latest: 'hidden'
           show-badge-latest: 'hidden'
-          show-superbadge-latest: 'visible'
+          show-superbadge-latest: 'hidden'
           show-event-badge-latest: 'hidden'
           show-stamp-latest: 'hidden'
