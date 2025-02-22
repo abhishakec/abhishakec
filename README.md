@@ -17,9 +17,7 @@
   <img width="12" />
   <a href="mailto:abhishake@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" /></a>
   <br><br>
-  <a href="https://www.salesforce.com/trailblazer/abhishakec" target="_blank">
-    <!--TH_Stats:start-->
-    <!--TH_Stats:end-->
+  <a href="https://www.salesforce.com/trailblazer/abhishakec" target="_blank"><img src="TS-cards/TScard-dark.png" height="150px"></a>
   </a>
   <br>
   <h1> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Howdy, I'm Abhishake Chandra!<br></h1>  
