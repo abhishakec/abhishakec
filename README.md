@@ -19,10 +19,8 @@
   <br><br>
   <a href="https://www.salesforce.com/trailblazer/abhishakec" target="_blank">
     <!--TH_Stats:start-->
-
-![Trailhead-Stats-Light](TS-cards/TScard-light.png#gh-light-mode-only)
-![Trailhead-Stats-Dark](TS-cards/TScard-dark.png#gh-dark-mode-only)
-<!--TH_Stats:end-->   
+    <!--TH_Stats:end-->
+  </a>
   <br>
   <h1> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Howdy, I'm Abhishake Chandra!<br></h1>  
 
