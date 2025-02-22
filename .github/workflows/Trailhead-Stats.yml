@@ -21,6 +21,8 @@ jobs:
         uses: nabondance/Trailhead-Stats@main
         with:
           trailhead-username: abhishakec
+          display-file: 'trailhead.md' # Optional
+          file-format: 'md' # Optional
           card-path: './TS-cards'
           dark-style: 'dark'
           display-type: 'card'
