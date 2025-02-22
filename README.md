@@ -17,9 +17,8 @@
   <img width="12" />
   <a href="mailto:abhishake@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" /></a>
   <br><br>
-  <a href="https://www.salesforce.com/trailblazer/abhishakec" target="_blank"><img src="TS-cards/TScard-dark.png" height="150px"></a>
-  </a>
-  <br>
+  <a href="https://www.salesforce.com/trailblazer/abhishakec" target="_blank"><img src="TS-cards/TScard-dark.png" height="120px"></a>
+
   <h1> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Howdy, I'm Abhishake Chandra!<br></h1>  
 
 Glad to see you here! I'm a highly skilled and experienced Salesforce Consultant with over 14 years of success configuring, developing, testing, and implementing cutting-edge solutions for customer relationship management (CRM) systems like Siebel and Salesforce.
