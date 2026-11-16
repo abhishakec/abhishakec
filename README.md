@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:0B5CAB,55:00A1E0,100:7F6AE0&text=Abhishake%20Chandra&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Salesforce%20Architecture%20%C2%B7%20LTM%20%C2%B7%20London&descAlignY=60&descSize=18&animation=fadeIn" alt="Abhishake Chandra — Salesforce Architecture, LTM, London" />
+  <img width="100%" src="assets/header-banner.png" alt="Abhishake Chandra — Salesforce Solution Architect; Associate Director, Architecture, Salesforce at LTM. Agentforce FDE Ready Practitioner 2026; Agentforce, Data 360 and Service Einstein Implementation Ready 2025" />
 </p>
 
 <p align="center">
@@ -46,11 +46,11 @@ a little easier.
 ## 🧭 Domain knowledge
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Financial%20Services-0B5CAB?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyLjUgMi41IDcuNVY5aDE5VjcuNXoiLz48cmVjdCB4PSI0LjUiIHk9IjEwLjUiIHdpZHRoPSIyLjUiIGhlaWdodD0iNyIgcng9Ii42Ii8%2BPHJlY3QgeD0iMTAuNzUiIHk9IjEwLjUiIHdpZHRoPSIyLjUiIGhlaWdodD0iNyIgcng9Ii42Ii8%2BPHJlY3QgeD0iMTciIHk9IjEwLjUiIHdpZHRoPSIyLjUiIGhlaWdodD0iNyIgcng9Ii42Ii8%2BPHJlY3QgeD0iMi41IiB5PSIxOSIgd2lkdGg9IjE5IiBoZWlnaHQ9IjIuNSIgcng9Ii44Ii8%2BPC9nPjwvc3ZnPg%3D%3D" alt="Financial Services" />
-  <img src="https://img.shields.io/badge/Automotive-0176D3?style=for-the-badge" alt="Automotive" />
-  <img src="https://img.shields.io/badge/Telecommunications-00A1E0?style=for-the-badge" alt="Telecommunications" />
-  <img src="https://img.shields.io/badge/Education-7F6AE0?style=for-the-badge" alt="Education" />
-  <img src="https://img.shields.io/badge/Retail-8F7BE8?style=for-the-badge" alt="Retail" />
+  <img src="https://img.shields.io/badge/-Financial%20Services-0B5CAB?style=for-the-badge&labelColor=555&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyLjUgMi41IDcuNVY5aDE5VjcuNXoiLz48cmVjdCB4PSI0LjUiIHk9IjEwLjUiIHdpZHRoPSIyLjUiIGhlaWdodD0iNyIgcng9Ii42Ii8%2BPHJlY3QgeD0iMTAuNzUiIHk9IjEwLjUiIHdpZHRoPSIyLjUiIGhlaWdodD0iNyIgcng9Ii42Ii8%2BPHJlY3QgeD0iMTciIHk9IjEwLjUiIHdpZHRoPSIyLjUiIGhlaWdodD0iNyIgcng9Ii42Ii8%2BPHJlY3QgeD0iMi41IiB5PSIxOSIgd2lkdGg9IjE5IiBoZWlnaHQ9IjIuNSIgcng9Ii44Ii8%2BPC9nPjwvc3ZnPg%3D%3D" alt="Financial Services" />
+  <img src="https://img.shields.io/badge/-Automotive-0176D3?style=for-the-badge&labelColor=555&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDExbDEuNi00LjJBMiAyIDAgMCAxIDguNSA1LjVoN2EyIDIgMCAwIDEgMS45IDEuM0wxOSAxMWguNWExLjUgMS41IDAgMCAxIDEuNSAxLjVWMTdoLTJ2MS41YTEuNSAxLjUgMCAwIDEtMyAwVjE3SDh2MS41YTEuNSAxLjUgMCAwIDEtMyAwVjE3SDN2LTQuNUExLjUgMS41IDAgMCAxIDQuNSAxMXptMi4yIDBoMTAuNmwtMS4yLTMuNGEuOC44IDAgMCAwLS43LS42SDkuNmEuOC44IDAgMCAwLS43LjZ6Ii8%2BPC9zdmc%2B" alt="Automotive" />
+  <img src="https://img.shields.io/badge/-Telecommunications-00A1E0?style=for-the-badge&labelColor=555&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxMHYxMU04IDIxaDgiLz48cGF0aCBkPSJNOC41IDYuNWE1IDUgMCAwIDAgMCA3TTE1LjUgNi41YTUgNSAwIDAgMSAwIDdNNS41IDMuNWE5IDkgMCAwIDAgMCAxM00xOC41IDMuNWE5IDkgMCAwIDEgMCAxMyIvPjwvZz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEwIiByPSIyIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg%3D%3D" alt="Telecommunications" />
+  <img src="https://img.shields.io/badge/-Education-7F6AE0?style=for-the-badge&labelColor=555&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAzIDEgOC41bDExIDUuNSA5LTQuNVYxNmgyVjguNXoiLz48cGF0aCBkPSJNNS41IDEyLjJWMTZjMCAxLjkgMi45IDMuNSA2LjUgMy41czYuNS0xLjYgNi41LTMuNXYtMy44TDEyIDE1LjV6Ii8%2BPC9nPjwvc3ZnPg%3D%3D" alt="Education" />
+  <img src="https://img.shields.io/badge/-Retail-8F7BE8?style=for-the-badge&labelColor=555&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDhoMTRsLTEgMTNINnoiLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik05IDEwVjYuNWEzIDMgMCAwIDEgNiAwVjEwIi8%2BPC9zdmc%2B" alt="Retail" />
 </p>
 
 ## ☁️ Salesforce
