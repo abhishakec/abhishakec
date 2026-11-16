@@ -1,11 +1,11 @@
 <!-- ───────────────────────── HEADER ───────────────────────── -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0B5CAB,55:00A1E0,100:7F6AE0&text=Abhishake%20Chandra&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Salesforce%20%C2%B7%20Enterprise%20CRM%20and%20AI%20%C2%B7%20London&descAlignY=58&descSize=18&animation=fadeIn" alt="Abhishake Chandra — Salesforce, enterprise CRM and AI, London" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0B5CAB,55:00A1E0,100:7F6AE0&text=Abhishake%20Chandra&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=14x%20Certified%20Salesforce%20Solution%20Architect%20%C2%B7%20Agentforce%20FDE%20%C2%B7%20London&descAlignY=58&descSize=18&animation=fadeIn" alt="Abhishake Chandra — 14x Certified Salesforce Solution Architect, Agentforce FDE, London" />
 </p>
 
 <p align="center">
   <a href="https://github.com/abhishakec/archistry">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=7F6AE0&center=true&vCenter=true&width=640&lines=I+design+and+lead+enterprise+CRM+%26+AI+initiatives;14%2B+years+of+CRM%3A+from+Siebel+to+Salesforce;Now+building+Archistry+%E2%9C%A8+diagrams+from+a+sentence" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=7F6AE0&center=true&vCenter=true&width=640&lines=Turning+Agentic+AI+into+enterprise+adoption%2C+not+pilots;Agentforce+%C2%B7+Data+360+%C2%B7+Responsible+AI;14%2B+years+of+CRM%3A+from+Siebel+to+Salesforce;Now+building+Archistry+%E2%9C%A8+diagrams+from+a+sentence" alt="Typing intro" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 <!-- ───────────────────────── ABOUT ───────────────────────── -->
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi, I'm Abhishake
 
-I'm a London-based Salesforce consultant who designs and leads enterprise CRM and AI initiatives,
+I'm a London-based, **14x certified Salesforce Solution Architect** and **Agentforce FDE** who designs and leads enterprise CRM and AI initiatives,
 with **14+ years** of configuring, building, testing and delivering CRM solutions, first on Siebel
 and now on Salesforce. In my free time I build tools that make Salesforce delivery faster and
 better looking.
@@ -29,14 +29,14 @@ better looking.
 <tr>
 <td width="50%" valign="top">
 
-- 🏢 &nbsp;Delivering CRM & AI programmes at **LTM**
+- 🏢 &nbsp;Solution Architect & Agentforce FDE at **LTM**
 - 🚀 &nbsp;Building **[Archistry](https://github.com/abhishakec/archistry)**: Salesforce diagrams from a sentence
-- 🤖 &nbsp;Exploring **Agentforce** and AI agent design
+- 🤖 &nbsp;Turning **Agentic AI & Data 360** into enterprise adoption, not pilots
 
 </td>
 <td width="50%" valign="top">
 
-- 💬 &nbsp;Ask me about solution design, Siebel → Salesforce, and CRM delivery
+- 💬 &nbsp;Ask me about Agentforce, responsible AI, CRM strategy and solution design
 - 🎨 &nbsp;Former art club secretary, so diagrams *have* to look good
 - 🌍 &nbsp;English · Hindi · Bengali
 
@@ -87,6 +87,8 @@ page and **PNG / JPG / SVG** images, laid out and checked by a deterministic eng
 
 <p align="center"><b>Certifications</b></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Salesforce-14x%20Certified-7F6AE0?style=for-the-badge&labelColor=2a2150" alt="14x Salesforce Certified" />
+  <br>
   <img src="https://img.shields.io/badge/Certified-Administrator-00A1E0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCA1LjVhNC42IDQuNiAwIDAgMSAzLjkgMi4xQTMuOSAzLjkgMCAwIDEgMTkuNiAxMGEzLjkgMy45IDAgMCAxLS45IDcuN0g2LjFBMy42IDMuNiAwIDAgMSA1IDEwLjdhNC42IDQuNiAwIDAgMSA1LTUuMnoiLz48L3N2Zz4%3D" alt="Salesforce Certified Administrator" />
   <img src="https://img.shields.io/badge/Certified-Platform%20App%20Builder-0176D3?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCA1LjVhNC42IDQuNiAwIDAgMSAzLjkgMi4xQTMuOSAzLjkgMCAwIDEgMTkuNiAxMGEzLjkgMy45IDAgMCAxLS45IDcuN0g2LjFBMy42IDMuNiAwIDAgMSA1IDEwLjdhNC42IDQuNiAwIDAgMSA1LTUuMnoiLz48L3N2Zz4%3D" alt="Salesforce Certified Platform App Builder" />
   <img src="https://img.shields.io/badge/Certified-Platform%20Developer%20I-0B5CAB?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCA1LjVhNC42IDQuNiAwIDAgMSAzLjkgMi4xQTMuOSAzLjkgMCAwIDEgMTkuNiAxMGEzLjkgMy45IDAgMCAxLS45IDcuN0g2LjFBMy42IDMuNiAwIDAgMSA1IDEwLjdhNC42IDQuNiAwIDAgMSA1LTUuMnoiLz48L3N2Zz4%3D" alt="Salesforce Certified Platform Developer I" />
