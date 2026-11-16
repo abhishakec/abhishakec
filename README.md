@@ -129,10 +129,7 @@ page and **PNG / JPG / SVG** images, laid out and checked by a deterministic eng
 ## 🐍 Contributions
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishakec/abhishakec/output/snake-dark.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/abhishakec/abhishakec/output/snake.svg" alt="Contribution snake animation" />
-  </picture>
+  <img width="100%" src="https://raw.githubusercontent.com/abhishakec/abhishakec/output/snake.svg" alt="Contribution snake animation" />
 </p>
 
 <!-- ───────────────────────── FOOTER ───────────────────────── -->
