@@ -67,16 +67,14 @@ a little easier.
 <p align="center">
   <img src="https://img.shields.io/badge/Agentforce-5A1BA9?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMCAzYy43IDQuNiAyLjYgNi41IDcuMiA3LjItNC42LjctNi41IDIuNi03LjIgNy4yLS43LTQuNi0yLjYtNi41LTcuMi03LjJDNy40IDkuNSA5LjMgNy42IDEwIDN6Ii8%2BPHBhdGggZD0iTTE4LjUgMTQuNWMuMyAyIDEuMSAyLjggMy4xIDMuMS0yIC4zLTIuOCAxLjEtMy4xIDMuMS0uMy0yLTEuMS0yLjgtMy4xLTMuMSAyLS4zIDIuOC0xLjEgMy4xLTMuMXoiLz48L2c%2BPC9zdmc%2B" alt="Agentforce" />
   <img src="https://img.shields.io/badge/Data%20360-0B5CAB?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjIiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUuNSIgcng9IjgiIHJ5PSIzIi8%2BPHBhdGggZD0iTTQgNS41djEzYzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTN2LTEzIi8%2BPHBhdGggZD0iTTQgMTJjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtMyIvPjwvZz48L3N2Zz4%3D" alt="Data 360" />
-<div align="center">  
   <a href="https://www.salesforce.com/uk/products/sales/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Sales%20Cloud-00857d?style=for-the-badge&logo=sf-sales" height="25" alt="sales logo" /></a> 
-  <img width="5" />
   <a href="https://www.salesforce.com/uk/products/service/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Service%20Cloud-812244?style=for-the-badge&logo=sf-service" height="25" alt="service logo" /></a>
   <img width="5" />
-  <a href="https://www.salesforce.com/uk/products/experience-cloud/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Experience%20Cloud-058cc5?style=for-the-badge&logo=sf-exp" height="25" alt="experience logo" /></a> 
+  <a href="https://www.salesforce.com/uk/products/experience-cloud/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Experience%20Cloud-058cc5?style=for-the-badge&logo=sf-exp" alt="experience logo" /></a> 
   <img width="5" />
-  <a href="https://www.salesforce.com/uk/solutions/industries/financial-services/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Financial%20Services%20Cloud-plum?style=for-the-badge&logoColor=481a54&logo=sf-finance" height="25" alt="finance logo" /></a>
+  <a href="https://www.salesforce.com/uk/solutions/industries/financial-services/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Financial%20Services%20Cloud-plum?style=for-the-badge&logoColor=481a54&logo=sf-finance" alt="finance logo" /></a>
   <img width="5" />
-  <a href="https://www.salesforce.com/products/net-zero-cloud/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Net%20Zero%20Cloud-palegreen?style=for-the-badge&logoColor=481a54&logo=sf-netzero" height="25" alt="finance logo" /></a>
+  <a href="https://www.salesforce.com/products/net-zero-cloud/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Net%20Zero%20Cloud-palegreen?style=for-the-badge&logoColor=481a54&logo=sf-netzero" alt="finance logo" /></a>
 </div>
 
 ## 🧰 Toolbox
