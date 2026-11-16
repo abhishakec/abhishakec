@@ -103,7 +103,6 @@ a little easier.
 </table>
 
 ## 🐍 Contributions
-https://github-profile-trophy.vercel.app/?username=abhishakec&theme=darkhub
 
 <p align="center">
   <picture>
